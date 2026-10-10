@@ -16,4 +16,5 @@ We use [bugzilla.mozilla.org](https://bugzilla.mozilla.org/) as our issue tracke
 If you have a question about developing Firefox, and can't find the solution
 on [Firefox Source Docs](https://firefox-source-docs.mozilla.org/), you can try asking your question on Matrix at
 chat.mozilla.org in the [Introduction channel](https://chat.mozilla.org/#/room/#introduction:mozilla.org).
-Created by Jason Heise https://next.frame.io
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
